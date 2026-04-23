@@ -21,8 +21,8 @@ This repository contains a static clone of the Spotify web interface, built to p
 - **Google Fonts:** Implementing 'Montserrat' to match the official Spotify branding.
 
 ## 📁 How to View
-
-1. Vercel:
+Live Demo:
+1. Vercel: https://spotify-clone-virid-eta.vercel.app
 
    OR
 
